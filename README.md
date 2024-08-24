@@ -15,7 +15,7 @@ In the second part of the project, a Python-based application is developed to cl
 - Training and testing a Convolutional Neural Network (CNN) model to improve the accuracy of gesture classification.
 
 This project not only provides hands-on experience in mobile application development but also offers exposure to machine learning techniques, particularly in the areas of gesture recognition and classification.<br><br>
-Link to the source code of Part 2&nbsp; [[Click Here]] (https://github.com/TJ2021/Hand_Gesture_App_Part2)<br><br>
+Link to the source code of Part 2 [[Click Here]] (https://github.com/TJ2021/Hand_Gesture_App_Part2)<br><br>
 
 
 ### Built With:
