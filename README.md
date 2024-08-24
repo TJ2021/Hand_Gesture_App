@@ -14,4 +14,17 @@ In the second part of the project, a Python-based application is developed to cl
 - Using pre-trained machine learning models to classify the specific gestures captured by the mobile application.
 - Training and testing a Convolutional Neural Network (CNN) model to improve the accuracy of gesture classification.
 
-This project not only provides hands-on experience in mobile application development but also offers exposure to machine learning techniques, particularly in the areas of gesture recognition and classification.
+This project not only provides hands-on experience in mobile application development but also offers exposure to machine learning techniques, particularly in the areas of gesture recognition and classification.<br> <br>
+
+### Built With:
+- Kotlin
+- Python
+- Android Studio
+- CNN
+
+
+## Lessons Learned
+- Gained hands-on experience in developing a mobile application using Android Studio, including designing user interfaces, handling camera functionality, and managing video recordings.
+- Learned to implement intuitive user flows, such as gesture selection, video recording, and uploading, ensuring a seamless user experience.
+- Applied pre-trained machine learning models for gesture classification, which enhanced my understanding of model integration in real-world applications.
+- Gained experience in training and testing a Convolutional Neural Network (CNN) model, which improved my proficiency in machine learning techniques.
