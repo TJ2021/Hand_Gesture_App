@@ -16,6 +16,7 @@ In the second part of the project, a Python-based application is developed to cl
 
 This project not only provides hands-on experience in mobile application development but also offers exposure to machine learning techniques, particularly in the areas of gesture recognition and classification.<br> <br>
 
+
 ### Built With:
 - Kotlin
 - Python
