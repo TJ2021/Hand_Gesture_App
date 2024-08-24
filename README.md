@@ -14,7 +14,7 @@ In the second part of the project, a Python-based application is developed to cl
 - Using pre-trained machine learning models to classify the specific gestures captured by the mobile application.
 - Training and testing a Convolutional Neural Network (CNN) model to improve the accuracy of gesture classification.
 
-This project not only provides hands-on experience in mobile application development but also offers exposure to machine learning techniques, particularly in the areas of gesture recognition and classification.<br>
+This project not only provides hands-on experience in mobile application development but also offers exposure to machine learning techniques, particularly in the areas of gesture recognition and classification.<br><br>
 Link to the source code of Prt 2. [[Click Here]] (https://github.com/TJ2021/smarthomepart2)<br><br>
 
 
