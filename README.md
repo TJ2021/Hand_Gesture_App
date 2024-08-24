@@ -22,6 +22,11 @@ This project not only provides hands-on experience in mobile application develop
 - Android Studio
 - CNN
 
+### Project Demo [[Link]](https://photos.google.com/share/AF1QipOUuFWghOBT0P-lSrU0wFz2Wu2CiTVqapMi6fYSySq2Egw2cq1Z0J7UPSEFQ6KZUw?key=OVRjT0pjUEYwR0lLRFZzdjRRQ0xaamVyT2JaWlRB) <br>
+Screenshot of the application.<br>
+
+<img width="1388" alt="SmartHomeGestureApp" src="https://github.com/user-attachments/assets/2492509c-fa5b-4bee-8509-fa3f640cabe5">
+
 
 ## Lessons Learned
 - Gained hands-on experience in developing a mobile application using Android Studio, including designing user interfaces, handling camera functionality, and managing video recordings.
